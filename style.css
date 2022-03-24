@@ -1,0 +1,32 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: chartreuse;
+}
+.abcd {
+   
+    border-radius: 20px;
+    width: 800px;
+    height: 800px;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 20px;
+}
+h1 {
+  background-color: white;
+    color:purple;
+    width: 800px;
+}
+.test {
+    background-color: grey;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+h5 {
+    background-color: white;
+   border-radius: 20px;
+   width: 500px;
+}
